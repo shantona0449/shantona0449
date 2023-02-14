@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="left">Assalamu-alaikum.<br>
+Hi 👋,I'm a Shantona Khatun!</h1>
 
-<!--
-**shantona0449/shantona0449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+ <a href="https://github.com/shantona0449?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/shantona0449?color=green&logo=github">
+  </a>
+  <a href="https://github.com/shantona0449">
+    <img src="https://komarev.com/ghpvc/?username=shantona0449" alt="visitors" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+#### Biodata,
+- 🎓 I'm currently studying Computer Science & Engineering at **[Dhaka International University](https://diu.ac/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧾️ I commonly use:` .nodejs`, `.html`, `.css`
+
+- 📖 I'm learning **Nodejs**
+
+- 📋 Checkout my **[Resume](#)**
+
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shantona0449/" target="blank"><img align="center" src="" alt="shantona0449" height="50" width="50" /></a><br>
+<a href="https://fb.com/shantona49/" target="blank"><img align="center" src="" alt="shantona49" height="50" width="50" /></a><br>
+<a href="https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act" target="blank"><img align="center" src="" alt="shantona0449@gmail.com" height="50" width="50" /></a>
+</p>
+
+### Github Stats:
+
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shantona0449&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantona0449&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
