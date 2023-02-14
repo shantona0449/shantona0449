@@ -26,9 +26,3 @@ Hi 👋,I'm a Shantona Khatun!</h1>
 <a href="https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act" target="blank"><img align="center" src="" alt="shantona0449@gmail.com" height="50" width="50" /></a>
 </p>
 
-### Github Stats:
-
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shantona0449&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantona0449&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
