@@ -20,9 +20,9 @@ Hi 👋,I'm a Shantona Khatun!</h1>
 - 📋 Checkout my **[Resume](#)**
 
 <h3 align="left">Connect with Me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/shantona0449/" target="blank"><img align="center" src="" alt="shantona0449" height="50" width="50" /></a><br>
 <a href="https://fb.com/shantona49/" target="blank"><img align="center" src="" alt="shantona49" height="50" width="50" /></a><br>
-<a href="https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act" target="blank"><img align="center" src="" alt="shantona0449@gmail.com" height="50" width="50" /></a>
+<a href="https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act" target="blank"><img align="center" src="" alt="shantona0449@gmail.com" height="50" width="50" /></a> -->
 </p>
 
